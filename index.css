@@ -1,0 +1,12 @@
+body{
+
+    background-color: #635656;
+}
+
+.heading{
+
+    color: rgb(147, 173, 120);
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
